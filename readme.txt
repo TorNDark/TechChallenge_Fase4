@@ -2,7 +2,7 @@ Todos os links estão disponíveis no arquivo streamlit, porem segue uma cópia 
 
 Links:
 
-PowerBi:
+PowerBi: https://github.com/TorNDark/TechChallenge_Fase4/blob/main/An%C3%A1lise%20Pre%C3%A7o%20do%20Petr%C3%B3leo_01.pbix
 
 Código Python: https://github.com/TorNDark/TechChallenge_Fase4/blob/main/TechChallengerPetroleoFIAP_v3.ipynb
 
