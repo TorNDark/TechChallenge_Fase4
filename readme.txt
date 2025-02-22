@@ -13,3 +13,5 @@ GitHub:https://github.com/TorNDark/TechChallenge_Fase4.git
 Base Utilizada: https://raw.githubusercontent.com/TorNDark/TechChallenge_Fase4/refs/heads/main/preco_petroleo_ipea_base_2015_2025.csv
 
 Video: https://youtu.be/yjUcNPZyu8s
+
+StoryTelling: https://docs.google.com/document/d/1fLNZBa6nmabq7xmuNwRSNoEivhNymEPVdMe01yzum38/edit?tab=t.0#heading=h.rf3qymhbopd6
