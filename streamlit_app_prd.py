@@ -39,7 +39,7 @@ if aba_selecionada == 'Introdução Tech Challenge 4':
     for paragraph in paragraphs:
         st.write(paragraph)
     st.write('Clique [aqui](http://www.ipeadata.gov.br/ExibeSerie.aspx?module=m&serid=1650971490&oper=view) para acessar os dados do IPEA')
-    # st.write('Clique [aqui](https://www.youtube.com/watch?v=lsGS1SKqSrY) para acessar o link de como foi feito o projeto, no youtube')
+    st.write('Clique [aqui](https://www.youtube.com/watch?v=lsGS1SKqSrY) para acessar o link de como foi feito o projeto, no youtube')
     st.write("Clique [aqui](https://github.com/TorNDark/TechChallenge_Fase4.git) e acesse todo o conteúdo do trabalho no GitHub")
 
     
