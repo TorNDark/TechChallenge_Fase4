@@ -8,7 +8,7 @@ import requests
 from PIL import Image
 from io import BytesIO
 
-st.markdown("<h1 style='text-align: center; color: black;'>Variação do Preço por Barril do Petróleo Bruto Brent</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: grey;'>Variação do Preço por Barril do Petróleo Bruto Brent</h1>", unsafe_allow_html=True)
 
 opcoes_abas = ['Introdução Tech Challenge 4', 'Analise Preço Petroleo']
 aba_selecionada = st.sidebar.selectbox('Escolha uma aba', opcoes_abas)
@@ -25,7 +25,7 @@ st.image(image,
 )
 
 if aba_selecionada == 'Introdução Tech Challenge 4':
-    st.markdown("<h1 style='text-align: center; color: black;'>Introdução Tech Challenge 4</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: grey;'>Introdução Tech Challenge 4</h1>", unsafe_allow_html=True)
     paragraphs = [
         "Analisar os dados de preço do petróleo Brent, que pode ser encontrado no site do Ipea.",
         "Essa base de dados histórica envolve duas colunas: data e preço (em dólares).",
@@ -45,7 +45,7 @@ if aba_selecionada == 'Introdução Tech Challenge 4':
     
 
 elif aba_selecionada == 'Analise Preço Petroleo':
-    st.markdown("<h1 style='text-align: center; color: black;'>Analise Preço Petroleo</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; color: grey;'>Analise Preço Petroleo</h1>", unsafe_allow_html=True)
 
     paragraphs = [
         "Análise da Flutuação do Preço do Petróleo ao Longo do Tempo.",
